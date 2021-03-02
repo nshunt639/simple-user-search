@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Simple User Search
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple web app that fetches users from public API and applies frontend side filter. (Leocode challenge)
 
 ## Available Scripts
 
