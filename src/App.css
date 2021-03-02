@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+main {
+  max-width: 600px;
+  margin: auto;
+  text-align: left;
+}
+.search-container .keyword {
+  width: 100%;
+  line-height: 24px;
+  font-size: 18px;
+  padding: 6px;
+}
+ul.user-list {
+  list-style: none;
+  margin: 0;
+}
+ul.user-list > li {
+  padding: 0;
+  color: lightgrey;
+}
+ul.user-list > li .user-index {
+  margin-right: 10px;
+}
+ul.user-list > li .user-name {
+  color: grey;
+  margin-right: 10px;
+}
